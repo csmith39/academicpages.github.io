@@ -1,18 +1,28 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# _data/authors.yml
+csmith39:
+  name             : "Christian Smith"
+  avatar           : "C:\Users\schmi\GES 486\csmith39.github.io\img_4346.png"
+  pronouns         : "he/him"
+  bio              : "I am a GES student at UMBC focusing on the spatial analysis of socioeconomic factors, environmental pollution, and health outcomes. My research aims to contribute to public health and environmental justice initiatives."
+  location         : "Annapolis, MD"
+  employer         : "University of Maryland Baltimore County"
+  email            : "schmitty9251@gmail.com"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "http://orcid.org/yourorcidurl"
+    - label: "PubMed"
+      icon: "fas fa-book"
+      url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/academicpages"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yourprofile/"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/UniofOxford"
