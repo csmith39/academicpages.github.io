@@ -12,7 +12,7 @@ title                    : "Christian Smith"
 title_separator          : "-"
 name                     : &name "Christian Smith"
 description              : &description "personal description"
-url                      : https://csmith39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://csmith39.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "csmith39/csmith39.github.io"
 
@@ -21,7 +21,7 @@ repository               : "csmith39/csmith39.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\schmi\Pictures\pexels-johannes-plenio-1118873.jpg"
+  avatar           : C:\Users\schmi\GES 486\csmith39.github.io\pexels-johannes-plenio-1118873.jpg
   name             : "Christian Smith"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
