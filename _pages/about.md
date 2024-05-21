@@ -31,11 +31,3 @@ Get in Touch
 ======
 Feel free to reach out to me for collaborations, questions, or just to connect! You can find my contact information and social media links in the author profile section.
 
-### Using This Site
-This site is built using the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. The template provides a robust structure for academic websites, allowing me to easily share my work and experiences.
-
----
-
-For more detailed information on configuring and using this template, you can refer to the [academicpages documentation](https://academicpages.github.io/markdown/) and the [Minimal Mistakes theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
-
