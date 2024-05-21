@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Socioeconomic Factors, Pollution, and Health Outcomes in Maryland"
-excerpt: "Exploring the spatial relationships between socioeconomic status, pollution levels, and health outcomes in Maryland counties.<br/><img src='C:\Users\schmi\GES 486\csmith39.github.io\Heatmap2.png'>"
+excerpt: "Exploring the spatial relationships between socioeconomic status, pollution levels, and health outcomes in Maryland counties.<br/><img src='C:\Users\schmi\GES 486\csmith39.github.io\heatmap2.png'>"
 collection: portfolio
 ---
 
