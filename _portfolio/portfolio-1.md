@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Socioeconomic Factors, Pollution, and Health Outcomes in Maryland"
-excerpt: "Exploring the spatial relationships between socioeconomic status, pollution levels, and health outcomes in Maryland counties.<br/><img src='C:\Users\schmi\GES 486\csmith39.github.io\heatmap2.png'>"
+excerpt: 'Exploring the spatial relationships between socioeconomic status, pollution levels, and health outcomes in Maryland counties.<br/><img src="../assets/images/heatmap2.png"/>'
 collection: portfolio
 ---
 
@@ -42,7 +42,8 @@ Point pattern analysis of pollution sources indicated clustering of pollution so
 
 The heatmap below visualizes the density of pollution sources across Maryland, highlighting areas with higher pollution levels. This heatmap helps in visually identifying the areas most affected by pollution and provides a clear, intuitive representation of the data.
 
-![Heatmap of Pollution Sources in Maryland]("C:\Users\schmi\GES 486\csmith39.github.io\heatmap2.png")
+Heatmap of Pollution Sources in Maryland
+<img src="../assets/images/heatmap2.png"/>
 
 ### Conclusion
 

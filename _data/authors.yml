@@ -1,7 +1,7 @@
 # _data/authors.yml
 csmith39:
   name             : "Christian Smith"
-  avatar           : "C:\Users\schmi\GES 486\csmith39.github.io\img_4346.png"
+  avatar           : "C:/Users/schmi/GES 486/csmith39.github.io/img_4346.png"
   pronouns         : "he/him"
   bio              : "I am a GES student at UMBC focusing on the spatial analysis of socioeconomic factors, environmental pollution, and health outcomes. My research aims to contribute to public health and environmental justice initiatives."
   location         : "Annapolis, MD"
